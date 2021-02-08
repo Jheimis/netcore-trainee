@@ -1,0 +1,12 @@
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\bin\Debug\netcoreapp3.1\Trainee.Application.deps.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\bin\Debug\netcoreapp3.1\Trainee.Application.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\bin\Debug\netcoreapp3.1\Trainee.Application.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\bin\Debug\netcoreapp3.1\Trainee.Domain.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\bin\Debug\netcoreapp3.1\Trainee.Domain.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.csprojAssemblyReference.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.AssemblyInfoInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.AssemblyInfo.cs
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.csproj.CoreCompileInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.csproj.CopyComplete
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Application\obj\Debug\netcoreapp3.1\Trainee.Application.pdb

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-Trainee.Web-E78B174C-38BA-44C8-B15D-27A0E358935C</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trainee.Application\Trainee.Application.csproj" />
+    <ProjectReference Include="..\Trainee.CrossCutting\Trainee.CrossCutting.csproj" />
+    <ProjectReference Include="..\Trainee.Infra.Data\Trainee.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

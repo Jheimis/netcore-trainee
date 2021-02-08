@@ -1,0 +1,15 @@
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Domain.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.AssemblyInfo.cs
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.deps.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Domain.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.csproj.CopyComplete
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.runtimeconfig.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.runtimeconfig.dev.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Infra.Data\obj\Debug\netcoreapp3.1\Trainee.Infra.Data.genruntimeconfig.cache

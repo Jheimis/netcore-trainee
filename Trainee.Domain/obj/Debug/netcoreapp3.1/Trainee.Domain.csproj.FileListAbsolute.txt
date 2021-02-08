@@ -1,0 +1,9 @@
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\bin\Debug\netcoreapp3.1\Trainee.Domain.deps.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\bin\Debug\netcoreapp3.1\Trainee.Domain.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\bin\Debug\netcoreapp3.1\Trainee.Domain.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.csprojAssemblyReference.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.AssemblyInfoInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.AssemblyInfo.cs
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.Domain\obj\Debug\netcoreapp3.1\Trainee.Domain.pdb

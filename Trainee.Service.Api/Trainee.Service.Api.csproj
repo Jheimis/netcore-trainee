@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>6e570ab4-3efb-4c4c-b4c2-f927aee82c4f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trainee.Application\Trainee.Application.csproj" />
+    <ProjectReference Include="..\Trainee.CrossCutting\Trainee.CrossCutting.csproj" />
+    <ProjectReference Include="..\Trainee.Infra.Data\Trainee.Infra.Data.csproj" />
+  </ItemGroup>
+
+
+</Project>

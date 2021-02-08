@@ -1,0 +1,16 @@
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.CrossCutting.deps.json
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.CrossCutting.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.CrossCutting.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Application.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Domain.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Application.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Domain.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\bin\Debug\netcoreapp3.1\Trainee.Infra.Data.pdb
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.AssemblyInfo.cs
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.csproj.CopyComplete
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.dll
+C:\Users\Willism\source\repos\netcore-trainee\Trainee.CrossCutting\obj\Debug\netcoreapp3.1\Trainee.CrossCutting.pdb
