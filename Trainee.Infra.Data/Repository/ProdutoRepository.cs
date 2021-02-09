@@ -30,6 +30,7 @@ namespace Trainee.Infra.Data.Repository
                 var produto = await DbSet.FindAsync(id);
                 produto.Ativo = !produto.Ativo;
                 DbSet.Update(produto);
+                Db.SaveChanges();
                 return ValidationResult.Success;
             }
             catch (Exception e)
@@ -43,6 +44,7 @@ namespace Trainee.Infra.Data.Repository
             try
             {
                 await DbSet.AddAsync(produto);
+                Db.SaveChanges();
                 return ValidationResult.Success;
             }
             catch (Exception e)
@@ -70,6 +72,7 @@ namespace Trainee.Infra.Data.Repository
                 {
                     DbSet.Update(produto);
                 });
+                Db.SaveChanges();
                 return ValidationResult.Success;
             }
             catch (Exception e)
