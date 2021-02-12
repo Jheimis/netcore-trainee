@@ -70,7 +70,7 @@ namespace Trainee.Web.Controllers
             return RedirectToAction("Index");
         }
 
-        [HttpGet("produto/ativar-inativar/{id}")]
+        [HttpGet("cliente/ativar-inativar/{id}")]
         public async Task<IActionResult> ActivateInactivate(int? id)
         {
             if (id == null) return NotFound();
