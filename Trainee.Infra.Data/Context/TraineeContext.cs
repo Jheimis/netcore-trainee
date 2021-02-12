@@ -22,6 +22,7 @@ namespace Trainee.Infra.Data.Context
         }
 
         public DbSet<Produto> Produtos { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -33,6 +34,7 @@ namespace Trainee.Infra.Data.Context
                 property.SetColumnType("varchar(100)");
 
             modelBuilder.ApplyConfiguration(new ProdutoMap());
+            modelBuilder.ApplyConfiguration(new ClienteMap());
 
             base.OnModelCreating(modelBuilder);
         }

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Trainee.Application.ViewModels.ProdutoViewModel> 
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<a href="produto/adicionar" class="btn btn-success">Novo Produto</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>>
+            <th>Valor</th>
+            <th>Ativo</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Nome</td>
+            <td>@item.Valor</td>
+            <td>@item.Ativo</td>
+            <td>
+                @Html.ActionLink("Edit", "atualizar", new { id = item.Id }) |
+                @Html.ActionLink("ActivateInactivate", "ativar-inativar", new { id = item.Id }) 
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>

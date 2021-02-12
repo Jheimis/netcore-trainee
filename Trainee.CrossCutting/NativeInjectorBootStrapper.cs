@@ -15,9 +15,11 @@ namespace Trainee.CrossCutting
 
             // Application
             services.AddScoped<IProdutoAppService, ProdutoAppService>();
+            services.AddScoped<IClienteAppService, ClienteAppService>();
 
             // Infra - Data
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
+            services.AddScoped<IClienteRepository, ClienteRepository>();
             services.AddScoped<TraineeContext>();
 
             

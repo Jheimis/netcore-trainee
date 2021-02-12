@@ -12,6 +12,7 @@ namespace Trainee.Application.AutoMapper
         public ViewModelToDomainMappingProfile()
         {
             CreateMap<ProdutoViewModel, Produto>();
+            CreateMap<ClienteViewModel, Cliente>();
         }
     }
 }
